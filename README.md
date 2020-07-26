@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, World! :wave: :earth_americas:
 
-<!--
-**patrickdicks/patrickdicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Hi, there! My name's Patrick. I'm a Software Engineer who enjoys finding innovative solutions to challenging problems.
 
-Here are some ideas to get you started:
+* **Languages** :snake:
+  * C, C++, C#, Java, JavaScript, HTML, Python, and SQL.
+* **Technologies** :floppy_disk:
+  * Agile, AJAX, Angular, Git, jQuery, Kubernetes, Node.js, PHP, React, and Scrum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience :computer:
+* **Boeing** :airplane:
+    * Software Engineer
+
+## Education :mortar_board:
+* **Oregon State University** :school:
+    * Bachelor of Science - BS, *Computer Science*
+
+* **Youngstown State University** :penguin:
+    * Bachelor of Arts - BA, *Psychology*
+    * Minor in Mathematics
+    
+
+> You miss 100% of the shots you don't take. - Wayne Gretzky</br>- Michael Scott
