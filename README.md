@@ -1,6 +1,4 @@
 # Hello, World! :wave: :earth_americas:
-
-## About
 Hi, there! My name's Patrick. I'm a Software Engineer who enjoys finding innovative solutions to challenging problems.
 
 * **Languages** :snake:
