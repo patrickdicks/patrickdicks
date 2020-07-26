@@ -1,5 +1,5 @@
 ## Hello, World! :wave: :earth_americas:
-Hi, there! My name's Patrick. I'm a Software Engineer who enjoys finding innovative solutions to challenging problems. 
+Hi, there! My name's Patrick. I'm a Software Engineer who enjoys finding innovative solutions to challenging problems.
 
 * **Languages** :snake:
   * C, C++, C#, Java, JavaScript, HTML, Python, and SQL.
