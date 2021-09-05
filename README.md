@@ -1,22 +1,20 @@
-## Hello, World! :wave: :earth_americas:
-Hi, there! My name's Patrick. I'm a Software Engineer who enjoys finding innovative solutions to challenging problems. Feel free to take a look around my repositories and reach out to me if you have any questions or suggestions.
+## About Me
+My name is Patrick. I am a Software Engineer and I enjoy finding innovative solutions to challenging problems. I currently work at Boeing Defense, Space & Security (BDS).
 
-* **Languages** :snake:
-  * C, C++, C#, Java, JavaScript, HTML, Python, and SQL.
-* **Technologies** :floppy_disk:
-  * Agile, AJAX, Angular, Git, jQuery, Kubernetes, Node.js, PHP, React, and Scrum.
+* **Languages**
+  * C, C++, C#, Java, JavaScript, HTML, Python, SQL
+* **Technologies**
+  * Agile, Git, Jira, Node.js, React, Redux, RESTful APIs, Scrum
 
-## Experience :computer:
-* **Boeing** :airplane:
+## Experience
+* **Boeing**
     * Software Engineer
 
-## Education :mortar_board:
-* **Oregon State University** :school:
+## Education
+* **Oregon State University**
     * Bachelor of Science - BS, *Computer Science*
 
-* **Youngstown State University** :penguin:
+* **Youngstown State University**
     * Bachelor of Arts - BA, *Psychology*
     * Minor in Mathematics
-    
-
-> You miss 100% of the shots you don't take. - Wayne Gretzky</br>- Michael Scott
+  
